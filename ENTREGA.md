@@ -1,7 +1,7 @@
 **Entrega do Projeto — Simulação de Auditoria de Senhas (Força Bruta / Password Spraying)**
 
 Nome: Luan Carlos  
-Repositório: COLE_AQUI_O_LINK_DO_GITHUB
+Repositório: https://github.com/LuanCarlozZ/desafio_Kali_Medusa
 
 Resumo:
 Implementei e documentei um laboratório de auditoria de senhas utilizando Kali Linux e ferramentas de linha de comando apropriadas, contra máquinas vulneráveis em rede isolada (por exemplo, Metasploitable2 / DVWA). O trabalho inclui:
