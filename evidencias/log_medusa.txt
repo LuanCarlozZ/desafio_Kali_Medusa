@@ -1,0 +1,1 @@
+LOG SIMULADO: resultados da execução em ambiente controlado.
